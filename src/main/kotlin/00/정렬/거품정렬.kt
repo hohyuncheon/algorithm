@@ -17,4 +17,5 @@ fun main(args: Array<String>) {
         }
     }
     println(Arrays.toString(arr))
+    println("test")
 }
