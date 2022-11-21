@@ -15,6 +15,8 @@ class 선택정렬 {
 }
 
 fun main(args: Array<String>) {
+    //1
+    //2
     //3
     val arr = intArrayOf(1, 11, 8, 42, 2)
 
